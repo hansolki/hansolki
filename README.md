@@ -4,8 +4,6 @@
 ![record of studying to be a DA](https://github.com/hansolki/hansolki/assets/145949904/96797c9e-448b-4136-8d29-372143356849)
 
 <br>
-<br>
-
 
 <h4 align="center"> 🌿 TECH STACK 🌿 </h4>
 
@@ -19,7 +17,6 @@
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-<br>
 
 <h4 align="center"> 📚 PLANNING TO 📚 </h4>
 
@@ -30,7 +27,6 @@
 ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-<br>
 
 <h4 align="center"> 🌲 CONTACT 🌲 </h4>
 

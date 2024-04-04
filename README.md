@@ -1,7 +1,7 @@
 
 <div align="center"> 
 
-![record of studying to be a DA](https://github.com/hansolki/hansolki/assets/145949904/96797c9e-448b-4136-8d29-372143356849)
+![Love the life you live, Live the life you love](https://github.com/hansolki/hansolki/assets/145949904/a5305096-c83a-4854-b9d9-152ea5679ab7)
 
 <br>
 
